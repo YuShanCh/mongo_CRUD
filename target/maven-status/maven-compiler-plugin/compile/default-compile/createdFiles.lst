@@ -1,0 +1,4 @@
+com\example\mongo\model\EmployeeRepository.class
+com\example\mongo\controller\EmployeeController.class
+com\example\mongo\model\Employee.class
+com\example\mongo\MongoApplication.class
